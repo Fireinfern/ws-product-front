@@ -1,4 +1,4 @@
-import { Container, Divider, Typography } from "@material-ui/core";
+import { Container, Typography } from "@material-ui/core";
 import { DataGrid } from '@material-ui/data-grid'
 import axios from "axios";
 import moment from "moment";
